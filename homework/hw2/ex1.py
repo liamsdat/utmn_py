@@ -1,0 +1,1 @@
+word = str(input('--> ')); print(''.join(list(word[len(word)//2:len(word)//2+1]))) if len(word)//2 == 0 else print(''.join(list(word[len(word)//2:len(word)//2+1])))
